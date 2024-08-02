@@ -1,0 +1,47 @@
+[
+  {
+    "id" : 1,
+    "cover_img": "https://i.ibb.co/2hTzR9b/1.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/k1NFkN3/boy2.jpg",
+    "title": "Mastering Keyword Research for SEO",
+    "hashtag": "#SEO #KeywordResearch",
+    "reading_time": 15
+  },
+  {
+    "id" : 2,
+    "cover_img": "https://i.ibb.co/NpFcssd/2.png",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/k1NFkN3/boy2.jpg",
+    "title": "The Ultimate Guide to Content Marketing",
+    "hashtag": "#ContentMarketing #DigitalMarketing",
+    "reading_time": 12
+  },
+  {
+    "id" : 3,
+    "cover_img": "https://i.ibb.co/GRPkSBy/3.png",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/k1NFkN3/boy2.jpg",
+    "title": "Social Media Strategies for Businesses",
+    "hashtag": "#SocialMedia #BusinessGrowth",
+    "reading_time": 10
+  },
+  {
+    "id" : 4,
+    "cover_img": "https://i.ibb.co/GRPkSBy/3.png",
+    "author": "Bob Brown",
+    "author_img": "https://i.ibb.co/k1NFkN3/boy2.jpg",
+    "title": "Effective Email Marketing Tactics",
+    "hashtag": "#EmailMarketing #MarketingTips",
+    "reading_time": 8
+  },
+  {
+    "id" : 5,
+    "cover_img": "https://i.ibb.co/2hTzR9b/1.jpg",
+    "author": "Chris Green",
+    "author_img": "https://i.ibb.co/k1NFkN3/boy2.jpg",
+    "title": "SEO Best Practices for 2024",
+    "hashtag": "#SEO #BestPractices",
+    "reading_time": 14
+  }
+]
